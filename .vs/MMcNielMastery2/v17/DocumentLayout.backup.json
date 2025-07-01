@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - Time Manufacturing\\Desktop\\MMcNielMastery2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\michaelmcniel\\.nuget\\packages\\monogame.content.builder.task\\3.8.4\\build\\MonoGame.Content.Builder.Task.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914F2334-CA34-410A-858D-67B461EA0626}|MMcNielMastery2\\MMcNielMastery2.csproj|d:\\onedrive - time manufacturing\\desktop\\mmcnielmastery2\\mmcnielmastery2\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914F2334-CA34-410A-858D-67B461EA0626}|MMcNielMastery2\\MMcNielMastery2.csproj|solutionrelative:mmcnielmastery2\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914F2334-CA34-410A-858D-67B461EA0626}|MMcNielMastery2\\MMcNielMastery2.csproj|d:\\onedrive - time manufacturing\\desktop\\mmcnielmastery2\\mmcnielmastery2\\content\\font.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{914F2334-CA34-410A-858D-67B461EA0626}|MMcNielMastery2\\MMcNielMastery2.csproj|solutionrelative:mmcnielmastery2\\content\\font.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonoGame.Content.Builder.Task.targets",
+              "DocumentMoniker": "C:\\Users\\michaelmcniel\\.nuget\\packages\\monogame.content.builder.task\\3.8.4\\build\\MonoGame.Content.Builder.Task.targets",
+              "ToolTip": "C:\\Users\\michaelmcniel\\.nuget\\packages\\monogame.content.builder.task\\3.8.4\\build\\MonoGame.Content.Builder.Task.targets",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAmwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-01T20:36:13.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "font.spritefont",
+              "DocumentMoniker": "D:\\OneDrive - Time Manufacturing\\Desktop\\MMcNielMastery2\\MMcNielMastery2\\Content\\font.spritefont",
+              "RelativeDocumentMoniker": "MMcNielMastery2\\Content\\font.spritefont",
+              "ToolTip": "D:\\OneDrive - Time Manufacturing\\Desktop\\MMcNielMastery2\\MMcNielMastery2\\Content\\font.spritefont",
+              "RelativeToolTip": "MMcNielMastery2\\Content\\font.spritefont",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-20T20:06:58.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "D:\\OneDrive - Time Manufacturing\\Desktop\\MMcNielMastery2\\MMcNielMastery2\\Game1.cs",
+              "RelativeDocumentMoniker": "MMcNielMastery2\\Game1.cs",
+              "ToolTip": "D:\\OneDrive - Time Manufacturing\\Desktop\\MMcNielMastery2\\MMcNielMastery2\\Game1.cs",
+              "RelativeToolTip": "MMcNielMastery2\\Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:24:28.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/OneDrive - Time Manufacturing/Desktop/MMcNielMastery2/MMcNielMastery2/Content/laser.mp3</SourceFile>
+  <SourceTime>2025-07-01T15:04:33.4724895-05:00</SourceTime>
+  <DestFile>D:/OneDrive - Time Manufacturing/Desktop/MMcNielMastery2/MMcNielMastery2/Content/bin/DesktopGL/Content/laser.xnb</DestFile>
+  <DestTime>2025-07-01T15:40:55.4720118-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2025-04-05T05:10:54-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2025-04-05T05:10:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
